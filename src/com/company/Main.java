@@ -1,0 +1,21 @@
+/**
+ *
+ *      NAME :                  Kieran Marcus Williams
+ *      Student Number :        C1930510
+ *
+ */
+
+package com.company;
+
+
+import java.util.Arrays;
+
+public class Main {
+
+
+    public static void main(String[] args) {
+        Game game = new Game();
+    }
+
+}
+
